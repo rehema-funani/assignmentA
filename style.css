@@ -1,0 +1,38 @@
+#container1{
+    display: flex;
+}
+#container2{
+    display: flex;
+}
+#container3{
+    display: flex;
+}
+#container4{
+    display: flex;
+}
+#container5{
+    display: flex;
+}
+#container6{
+    display: flex;
+}
+#container7{
+    display: flex;
+}
+#container8{
+    display: flex;
+}
+#container9{
+    display: flex;
+    gap: 2%;
+    background-color: black;
+    margin-right: 50%;
+}
+
+.footer{
+    color: white;
+}
+.offooter{
+    color: white;
+}
+
