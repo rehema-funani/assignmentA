@@ -35,4 +35,50 @@
 .offooter{
     color: white;
 }
+#container10{
+    background-color: bisque;
+    margin-right: 50%;
+}
+#navbar{
+    display: flex;
+}
+@media screen and (max-width:480px){
+   .image1{
+    width:55%;
+   } 
+   #container2{
+    flex-wrap: wrap;
+   }
+   #container4{
+    flex-wrap: wrap;
+   }
+   #container3{
+    flex-wrap: wrap;
+   }
+   #container5{
+    flex-wrap: wrap;
+   }
+   #container8{
+    flex-wrap: wrap;
+   }
+   #container9{
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+   }
+   #container10{
+    width: 70%;
+   }
+
+
+}
+@media screen and (min-width:780px){
+    body{
+        font-size: larger;
+    }
+    #container10{
+        width: 90%;
+    }
+}
+
 
